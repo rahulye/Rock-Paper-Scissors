@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/74498014-bf8d-44fd-91ea-298a6046f198
 ---
 
 ##  Screenshot
-(Add a screenshot of your project here once hosted)
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/0017ef53-11c4-4458-bea3-1c4463427267" />
 
 ---
 
